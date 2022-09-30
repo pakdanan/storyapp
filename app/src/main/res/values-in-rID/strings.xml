@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">StoryApp</string>
+    <string name="photo">Foto</string>
+    <string name="name">Nama</string>
+    <string name="description">Deskripsi</string>
+    <string name="date">Tanggal</string>
+    <string name="prompt_name">Nama</string>
+    <string name="prompt_email">Surel</string>
+    <string name="prompt_password">Sandi</string>
+    <string name="action_sign_in">Masuk</string>
+    <string name="action_register">Daftar</string>
+    <string name="action_logout">Keluar</string>
+    <string name="action_create_account">Buat akun</string>
+    <string name="action_add_stories">Tambah cerita</string>
+    <string name="msg_invalid_username">Nama tidak sesuai</string>
+    <string name="msg_invalid_password">Sandi harus lebih dari 5 huruf</string>
+    <string name="msg_invalid_email">Surel tidak sesuai</string>
+    <string name="msg_error_login">Gagal masuk</string>
+    <string name="msg_error_register">Gagal daftar</string>
+    <string name="msg_success_register">Akun sudah terbuat. Silakan masuk.</string>
+    <string name="msg_no_permission">Tidak mendapat ijin.</string>
+    <string name="msg_cannot_empty">%1$s tidak boleh kosong</string>
+    <string name="add_story">Tambah Cerita</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Camera</string>
+    <string name="choose_picture">Pilih gambar</string>
+    <string name="msg_camera_failed">Kamera gagal</string>
+    <string name="msg_error_take_picture">Gagal mengambil foto</string>
+    <string name="settings">Pengaturan</string>
+</resources>
